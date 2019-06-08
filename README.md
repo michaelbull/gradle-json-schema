@@ -15,7 +15,6 @@ buildscript {
     }
 
     dependencies {
-        classpath("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.7")
         classpath("com.michael-bull.gradle-json-schema:gradle-json-schema:1.0.0")
     }
 }
